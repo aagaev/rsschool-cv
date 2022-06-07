@@ -1,7 +1,7 @@
 # Anar Agaev
 
 ## Contacts:
-- Location: Baku city, Azerbaijan Republic
+- Location: Baku city, Azerbaijan Republic, Nasimi district
 - E-mail: agaeana@gmail.com
 - GitHub: aagaev
 - twitter: aagaev_in_code
