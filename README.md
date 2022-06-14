@@ -1,1 +1,1 @@
-# rsschool-cv
+https://aagaev.github.io/rsschool-cv/
