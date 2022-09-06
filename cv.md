@@ -5,7 +5,7 @@
 - E-mail: agaeana@gmail.com
 - GitHub: aagaev
 - twitter: aagaev_in_code
-- Phone: +994 51 225 45 8
+- Phone: +994 51 225 45 81
 - Discord: Anar@aagaev
 
 ## About Me
